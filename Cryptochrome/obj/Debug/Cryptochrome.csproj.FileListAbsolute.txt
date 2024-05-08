@@ -1,0 +1,29 @@
+D:\Users\Traest\Documents\Visual Studio 2017\Projects\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe.config
+D:\Users\Traest\Documents\Visual Studio 2017\Projects\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe
+D:\Users\Traest\Documents\Visual Studio 2017\Projects\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.pdb
+D:\Users\Traest\Documents\Visual Studio 2017\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csprojResolveAssemblyReference.cache
+D:\Users\Traest\Documents\Visual Studio 2017\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csproj.CoreCompileInputs.cache
+D:\Users\Traest\Documents\Visual Studio 2017\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.exe
+D:\Users\Traest\Documents\Visual Studio 2017\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.pdb
+D:\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe.config
+D:\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe
+D:\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.pdb
+D:\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csprojAssemblyReference.cache
+D:\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csproj.CoreCompileInputs.cache
+D:\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.exe
+D:\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.pdb
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe.config
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.pdb
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csproj.AssemblyReference.cache
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.exe
+C:\Users\Виктория\Desktop\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.pdb
+D:\msi_data\Projects\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe.config
+D:\msi_data\Projects\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.exe
+D:\msi_data\Projects\Cryptochrome\Cryptochrome\bin\Debug\Cryptochrome.pdb
+D:\msi_data\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csproj.AssemblyReference.cache
+D:\msi_data\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.csproj.CoreCompileInputs.cache
+D:\msi_data\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.exe
+D:\msi_data\Projects\Cryptochrome\Cryptochrome\obj\Debug\Cryptochrome.pdb
